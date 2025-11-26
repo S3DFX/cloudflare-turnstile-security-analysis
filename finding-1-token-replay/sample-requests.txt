@@ -1,0 +1,3 @@
+# Sample Requests
+
+This document contains a series of sample requests to demonstrate the token replay findings.
