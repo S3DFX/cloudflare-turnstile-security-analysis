@@ -1,6 +1,6 @@
 # Project Title
 
-A brief description of your project goes here.
+A brief description of the report files structure goes here.
 
 ## Getting Started
 
